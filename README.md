@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaoLJ81
 - 👀 I’m interested in data science and full stack development
 - 🌱 I’m currently learning some Python, JavaScript and HTML
-- 💞️ I’m looking to collaborate on basic projects to help learn e begging my career as a programmer
+- 💞️ I’m looking to collaborate on basic projects to help me learn e begging my career as a programmer
 - 📫 How to reach me: jv.brand@gmail.com / @JoaoLJ81 on twitter
 
 <!---
